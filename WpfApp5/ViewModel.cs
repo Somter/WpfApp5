@@ -11,7 +11,7 @@ using System.Windows.Input;
 
 namespace WpfApp5
 {
-    public class MainViewModel : INotifyPropertyChanged
+    public class MainViewModel : INotifyPropertyChanged 
     {
         private Contact selectedContact;
         private string addEditButtonContent;
